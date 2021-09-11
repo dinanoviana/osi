@@ -2,7 +2,7 @@
 A website that provides the latest information about open source
 
 # About The Project
-![Sneak Peak](/assets/images/Sreenshot.png "OSI")
+![Sneak Peak](https://github.com/dinanoviana/osi/blob/master/assets/image/Screenshot.PNG)
 
 A website that provides the latest information about open source where users can find lots of open source articles related to trends, events, news, tools, tips & tricks, and more.
 
