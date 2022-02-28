@@ -1,5 +1,5 @@
 This is a project for Dicoding submission.
-A simple website that provides the latest information about open source
+\nA simple website that provides the latest information about open source
 
 ## About The Project
 ![Sneak Peak](https://github.com/dinanoviana/osi/blob/master/assets/image/Screenshot.PNG)
